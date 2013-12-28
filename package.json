@@ -1,0 +1,19 @@
+{
+  "author": "Ian Rust <ian@ianru.st> (ianru.st)",
+  "name": "sudocide-back",
+  "description": "backend of sudocide app",
+  "version": "0.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ianrust/sudocide.git"
+  },
+  "dependencies": {
+    "logfmt": "~0.18.1",
+    "express": "~3.4.7"
+  },
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}
